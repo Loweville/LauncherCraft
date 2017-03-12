@@ -1,4 +1,0 @@
-LauncherCraft TODO
--Base Functions
-—Authentication
-—
